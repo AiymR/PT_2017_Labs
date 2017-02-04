@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2017\Projects\Isprime\Lab1\bin\Debug\Lab1.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\Isprime\Lab1\bin\Debug\Lab1.exe
+c:\users\asus\documents\visual studio 2017\Projects\Isprime\Lab1\bin\Debug\Lab1.pdb
+c:\users\asus\documents\visual studio 2017\Projects\Isprime\Lab1\obj\Debug\Isprime.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\Isprime\Lab1\obj\Debug\Lab1.exe
+c:\users\asus\documents\visual studio 2017\Projects\Isprime\Lab1\obj\Debug\Lab1.pdb

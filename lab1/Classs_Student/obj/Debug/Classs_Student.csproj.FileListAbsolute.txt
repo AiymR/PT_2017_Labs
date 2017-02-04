@@ -1,0 +1,5 @@
+c:\Users\Asus\documents\visual studio 2017\Projects\Isprime\Classs_Student\bin\Debug\Classs_Student.exe.config
+c:\Users\Asus\documents\visual studio 2017\Projects\Isprime\Classs_Student\bin\Debug\Classs_Student.exe
+c:\Users\Asus\documents\visual studio 2017\Projects\Isprime\Classs_Student\bin\Debug\Classs_Student.pdb
+c:\Users\Asus\documents\visual studio 2017\Projects\Isprime\Classs_Student\obj\Debug\Classs_Student.exe
+c:\Users\Asus\documents\visual studio 2017\Projects\Isprime\Classs_Student\obj\Debug\Classs_Student.pdb

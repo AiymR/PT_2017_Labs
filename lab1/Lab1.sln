@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26020.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isprime", "Lab1\Isprime.csproj", "{E546FF6E-A7BF-4BCE-BC98-44F536566443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classs_Student", "Classs_Student\Classs_Student.csproj", "{505FE9B5-09FA-4FEE-8414-FB788BF0E8BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E546FF6E-A7BF-4BCE-BC98-44F536566443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E546FF6E-A7BF-4BCE-BC98-44F536566443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E546FF6E-A7BF-4BCE-BC98-44F536566443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E546FF6E-A7BF-4BCE-BC98-44F536566443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{505FE9B5-09FA-4FEE-8414-FB788BF0E8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505FE9B5-09FA-4FEE-8414-FB788BF0E8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505FE9B5-09FA-4FEE-8414-FB788BF0E8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505FE9B5-09FA-4FEE-8414-FB788BF0E8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
