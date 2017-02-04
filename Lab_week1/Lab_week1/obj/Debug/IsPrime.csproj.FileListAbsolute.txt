@@ -1,0 +1,6 @@
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Lab_week1\Lab_week1\obj\Debug\IsPrime.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Lab_week1\Lab_week1\bin\Debug\Lab_week1.exe.config
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Lab_week1\Lab_week1\bin\Debug\Lab_week1.exe
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Lab_week1\Lab_week1\bin\Debug\Lab_week1.pdb
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Lab_week1\Lab_week1\obj\Debug\Lab_week1.exe
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Lab_week1\Lab_week1\obj\Debug\Lab_week1.pdb

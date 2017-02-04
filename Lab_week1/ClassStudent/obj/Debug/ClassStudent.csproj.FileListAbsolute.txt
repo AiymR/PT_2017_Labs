@@ -1,0 +1,5 @@
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Lab_week1\ClassStudent\bin\Debug\ClassStudent.exe.config
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Lab_week1\ClassStudent\bin\Debug\ClassStudent.exe
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Lab_week1\ClassStudent\bin\Debug\ClassStudent.pdb
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Lab_week1\ClassStudent\obj\Debug\ClassStudent.exe
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Lab_week1\ClassStudent\obj\Debug\ClassStudent.pdb
