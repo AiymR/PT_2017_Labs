@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2017\Projects\lab2\min_max\bin\Debug\min_max.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\lab2\min_max\bin\Debug\min_max.exe
+c:\users\asus\documents\visual studio 2017\Projects\lab2\min_max\bin\Debug\min_max.pdb
+c:\users\asus\documents\visual studio 2017\Projects\lab2\min_max\obj\Debug\min_max.exe
+c:\users\asus\documents\visual studio 2017\Projects\lab2\min_max\obj\Debug\min_max.pdb
+c:\users\asus\documents\visual studio 2017\Projects\lab2\min_max\obj\Debug\min_max.csprojResolveAssemblyReference.cache

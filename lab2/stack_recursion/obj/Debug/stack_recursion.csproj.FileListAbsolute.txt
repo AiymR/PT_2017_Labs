@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2017\Projects\lab2\stack_recursion\bin\Debug\stack_recursion.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\lab2\stack_recursion\bin\Debug\stack_recursion.exe
+c:\users\asus\documents\visual studio 2017\Projects\lab2\stack_recursion\bin\Debug\stack_recursion.pdb
+c:\users\asus\documents\visual studio 2017\Projects\lab2\stack_recursion\obj\Debug\stack_recursion.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\lab2\stack_recursion\obj\Debug\stack_recursion.exe
+c:\users\asus\documents\visual studio 2017\Projects\lab2\stack_recursion\obj\Debug\stack_recursion.pdb

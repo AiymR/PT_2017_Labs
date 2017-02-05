@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2017\Projects\lab2\complex\bin\Debug\complex.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\lab2\complex\bin\Debug\complex.exe
+c:\users\asus\documents\visual studio 2017\Projects\lab2\complex\bin\Debug\complex.pdb
+c:\users\asus\documents\visual studio 2017\Projects\lab2\complex\obj\Debug\complex.exe
+c:\users\asus\documents\visual studio 2017\Projects\lab2\complex\obj\Debug\complex.pdb

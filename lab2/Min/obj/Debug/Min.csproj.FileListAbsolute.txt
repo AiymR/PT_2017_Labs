@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2017\Projects\lab2\Min\bin\Debug\Min.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\lab2\Min\bin\Debug\Min.exe
+c:\users\asus\documents\visual studio 2017\Projects\lab2\Min\bin\Debug\Min.pdb
+c:\users\asus\documents\visual studio 2017\Projects\lab2\Min\obj\Debug\Min.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\lab2\Min\obj\Debug\Min.exe
+c:\users\asus\documents\visual studio 2017\Projects\lab2\Min\obj\Debug\Min.pdb
