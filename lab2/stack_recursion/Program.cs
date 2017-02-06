@@ -38,6 +38,9 @@ namespace stack_recursion
             }
         private static void F2()
         {
+            Class Fibo {
+                int n;
+            }
            
             int Fibo(int n)
             {
