@@ -1,0 +1,1 @@
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\ejon\bin\Debug\ejon.exe.config

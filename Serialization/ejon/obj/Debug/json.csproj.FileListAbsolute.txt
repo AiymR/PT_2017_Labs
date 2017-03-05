@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\ejon\bin\Debug\ejon.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\ejon\bin\Debug\ejon.exe
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\ejon\bin\Debug\ejon.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\ejon\bin\Debug\Newtonsoft.Json.dll
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\ejon\bin\Debug\xml.exe
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\ejon\bin\Debug\xml.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\ejon\bin\Debug\Newtonsoft.Json.xml
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\ejon\obj\Debug\json.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\ejon\obj\Debug\ejon.exe
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\ejon\obj\Debug\ejon.pdb

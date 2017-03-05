@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\xml\bin\Debug\xml.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\xml\bin\Debug\xml.exe
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\xml\bin\Debug\xml.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\xml\obj\Debug\xml.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\xml\obj\Debug\xml.exe
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\xml\obj\Debug\xml.pdb

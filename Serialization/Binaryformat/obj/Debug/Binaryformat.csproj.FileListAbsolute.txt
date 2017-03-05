@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\Binaryformat\bin\Debug\Binaryformat.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\Binaryformat\bin\Debug\Binaryformat.exe
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\Binaryformat\bin\Debug\Binaryformat.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\Binaryformat\bin\Debug\xml.exe
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\Binaryformat\bin\Debug\xml.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\Binaryformat\obj\Debug\Binaryformat.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\Binaryformat\obj\Debug\Binaryformat.exe
+c:\users\asus\documents\visual studio 2015\Projects\Serialization\Binaryformat\obj\Debug\Binaryformat.pdb
