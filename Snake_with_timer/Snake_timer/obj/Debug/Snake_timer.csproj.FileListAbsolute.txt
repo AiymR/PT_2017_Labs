@@ -1,0 +1,12 @@
+c:\users\safary\documents\visual studio 2015\Projects\Snake_timer\Snake_timer\bin\Debug\Snake_timer.exe.config
+c:\users\safary\documents\visual studio 2015\Projects\Snake_timer\Snake_timer\bin\Debug\Snake_timer.exe
+c:\users\safary\documents\visual studio 2015\Projects\Snake_timer\Snake_timer\bin\Debug\Snake_timer.pdb
+c:\users\safary\documents\visual studio 2015\Projects\Snake_timer\Snake_timer\obj\Debug\Snake_timer.exe
+c:\users\safary\documents\visual studio 2015\Projects\Snake_timer\Snake_timer\obj\Debug\Snake_timer.pdb
+c:\users\safary\documents\visual studio 2015\Projects\Snake_timer\Snake_timer\obj\Debug\Snake_timer.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Downloads\nursultanmomyshuly-master\nursultanmomyshuly-master\Snake_with_timer\Snake_timer\bin\Debug\Snake_timer.exe.config
+C:\Users\Asus\Downloads\nursultanmomyshuly-master\nursultanmomyshuly-master\Snake_with_timer\Snake_timer\obj\Debug\Snake_timer.exe
+C:\Users\Asus\Downloads\nursultanmomyshuly-master\nursultanmomyshuly-master\Snake_with_timer\Snake_timer\obj\Debug\Snake_timer.pdb
+C:\Users\Asus\Downloads\nursultanmomyshuly-master\nursultanmomyshuly-master\Snake_with_timer\Snake_timer\bin\Debug\Snake_timer.exe
+C:\Users\Asus\Downloads\nursultanmomyshuly-master\nursultanmomyshuly-master\Snake_with_timer\Snake_timer\bin\Debug\Snake_timer.pdb
+C:\Users\Asus\Downloads\nursultanmomyshuly-master\nursultanmomyshuly-master\Snake_with_timer\Snake_timer\obj\Debug\Snake_timer.csprojResolveAssemblyReference.cache

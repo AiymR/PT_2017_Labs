@@ -1,0 +1,12 @@
+C:\Users\Asus\Downloads\nursultanmomyshuly-master\nursultanmomyshuly-master\Snake_with_timer\Snake_timer\bin\Debug\Snake_timer.exe.config
+C:\Users\Asus\Downloads\nursultanmomyshuly-master\nursultanmomyshuly-master\Snake_with_timer\Snake_timer\bin\Debug\Snake_timer.exe
+C:\Users\Asus\Downloads\nursultanmomyshuly-master\nursultanmomyshuly-master\Snake_with_timer\Snake_timer\bin\Debug\Snake_timer.pdb
+C:\Users\Asus\Downloads\nursultanmomyshuly-master\nursultanmomyshuly-master\Snake_with_timer\Snake_timer\obj\Debug\Snaketimer.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Downloads\nursultanmomyshuly-master\nursultanmomyshuly-master\Snake_with_timer\Snake_timer\obj\Debug\Snake_timer.exe
+C:\Users\Asus\Downloads\nursultanmomyshuly-master\nursultanmomyshuly-master\Snake_with_timer\Snake_timer\obj\Debug\Snake_timer.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Snake_with_timer\Snake_timer\bin\Debug\Snake_timer.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Snake_with_timer\Snake_timer\obj\Debug\Snake_timer.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Snake_with_timer\Snake_timer\obj\Debug\Snake_timer.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Snake_with_timer\Snake_timer\obj\Debug\Snaketimer.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Snake_with_timer\Snake_timer\bin\Debug\Snake_timer.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Snake_with_timer\Snake_timer\bin\Debug\Snake_timer.pdb
